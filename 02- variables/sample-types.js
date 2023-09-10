@@ -1,0 +1,12 @@
+"use strict";
+let found = true;
+let grade = 80.5;
+let firstName = "Brandon";
+let lastName = "Ibanez";
+console.log(found);
+console.log("Grade: " + grade);
+console.log("First name: " + firstName + "\nLastname: " + lastName);
+console.log(`Hi ${firstName} ${lastName}`);
+//found = 0;
+//grade = 'one';
+//firstName = false;
